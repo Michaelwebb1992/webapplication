@@ -2,10 +2,10 @@
 
 $config['base_url']='http://www.d2wembroideryandprint.co.uk';
 //Database
-$db['hostname'] = 'd2wembroideryandprint.co.uk.mysql';
-$db['username'] = 'd2wembroideryan';
+$db['hostname'] = 'hostname';
+$db['username'] = 'username';
 $db['password'] = 'password';
-$db['database'] = 'd2wembroideryan';
+$db['database'] = 'datatbase';
 $db['dbdriver'] = 'mysql';
 
 ?>
