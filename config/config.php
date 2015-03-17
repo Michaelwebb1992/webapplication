@@ -1,6 +1,6 @@
 <?php
 
-$config['base_url']='http://www.d2wembroideryandprint.co.uk';
+$config['base_url']='URL';
 //Database
 $db['hostname'] = 'hostname';
 $db['username'] = 'username';
