@@ -6,10 +6,10 @@ require_once 'config.php';
 
 $GLOBALS['config'] = array( //establishes connection to DB using OOphp
 	'mysql' => array(
-		'host' => 'd2wembroideryandprint.co.uk.mysql',
-		'username' => 'd2wembroideryan',
+		'host' => 'host',
+		'username' => 'username',
 		'password' => 'password',
-		'db' => 'd2wembroideryan'
+		'db' => 'db'
 	),
 	'remember' => array(
 		'cookie_name'	=> 'hash',
